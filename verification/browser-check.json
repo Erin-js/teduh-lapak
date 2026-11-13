@@ -1,0 +1,18 @@
+{
+  "browserFlows": [
+    "All five map layers and legends",
+    "Area search and selection",
+    "Loksem detail",
+    "Inspection create and reload persistence",
+    "Report create and status update",
+    "CSV export contents",
+    "Evaluation reflects latest inspection",
+    "Mobile menu, layout, map and dialog"
+  ],
+  "responsiveCheck": {
+    "cssViewportWidth": 520,
+    "documentWidth": 500,
+    "horizontalOverflow": false
+  },
+  "notes": "All observations were test fixtures, not field findings. Test records archived and removed from the active data."
+}

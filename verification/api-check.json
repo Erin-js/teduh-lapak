@@ -1,0 +1,45 @@
+{
+  "checkedAt": "2026-11-13T02:18:23.740Z",
+  "results": [
+    {
+      "name": "Home responds successfully",
+      "passed": true
+    },
+    {
+      "name": "Analysis contains 261 areas, 89 initial review areas and 436 recorded vendors",
+      "passed": true
+    },
+    {
+      "name": "Invalid location rejected",
+      "passed": true
+    },
+    {
+      "name": "Invalid facility status rejected",
+      "passed": true
+    },
+    {
+      "name": "Cross-origin mutations rejected",
+      "passed": true
+    },
+    {
+      "name": "Unknown report returns 404",
+      "passed": true
+    },
+    {
+      "name": "Operations remain readable",
+      "passed": true
+    },
+    {
+      "name": "Invalid photo rejected",
+      "passed": true
+    },
+    {
+      "name": "Photo upload and readback work",
+      "passed": true
+    },
+    {
+      "name": "Uploaded photo path traversal rejected",
+      "passed": true
+    }
+  ]
+}

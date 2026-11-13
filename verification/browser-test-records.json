@@ -1,0 +1,25 @@
+{
+  "inspections": [
+    {
+      "locationId": "jt-23",
+      "officer": "Uji fungsi prototipe",
+      "shade": "tersedia",
+      "water": "perlu_perbaikan",
+      "rest": "tidak_tersedia",
+      "note": "UJI FUNGSI PROTOTIPE — bukan pemeriksaan lapangan. Catatan ini hanya untuk memeriksa penyimpanan.",
+      "id": "ebb30b6c-38e8-4f69-9762-7138076983d6",
+      "createdAt": "2026-11-13T02:06:59.257Z"
+    }
+  ],
+  "reports": [
+    {
+      "locationId": "jt-23",
+      "kind": "Air minum",
+      "note": "UJI FUNGSI PROTOTIPE — bukan laporan lapangan. Menguji alur tindak lanjut fasilitas.",
+      "id": "083e4998-cc1e-41cd-98a9-8c9da7c6411b",
+      "createdAt": "2026-11-13T02:07:44.072Z",
+      "updatedAt": "2026-11-13T02:07:52.639Z",
+      "status": "selesai"
+    }
+  ]
+}
